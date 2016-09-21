@@ -2,3 +2,5 @@ we want to repeat
 second line
 third line
 HIIII
+stuff
+feature X stuff only
